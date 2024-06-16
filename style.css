@@ -1,0 +1,19 @@
+.height{
+    height: 30vh;
+}
+
+.card-margin p{
+    display: flex;
+    margin-bottom: 0;
+    height: 6vh;
+    align-items: center;
+}
+
+.icon{
+    display: flex;
+    align-items: center;
+}
+
+.bi-trash-fill:hover{
+    cursor: pointer;
+}
